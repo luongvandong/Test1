@@ -1,7 +1,9 @@
-package com.example.dong.test1;
+package com.example.dong.test1.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.dong.test1.R;
 
 public class MainActivity extends AppCompatActivity {
 
